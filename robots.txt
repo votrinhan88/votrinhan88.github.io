@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://votrinhan88.github.io/sitemap.xml
